@@ -20,7 +20,7 @@ Excel was used to create pivot tables and charts for better understanding of tre
 
 ## Files Included
 - queries.sql
-- Project Report (PDF)
+- retail_analytics_report.pdf
 - Screenshots
   
 ## Sample Output
