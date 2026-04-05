@@ -1,27 +1,35 @@
-# 📊 Retail Analytics Project
+# Retail Analytics Project
 
-## 📌 Description
+##  Description
 This project analyzes retail transaction data using SQL and visualizes insights using Excel.
 
-## 🛠 Tools Used
+## Tools Used
 - MySQL
 - MySQL Workbench
 - Microsoft Excel
 
-## 📊 Analysis Performed
+## Analysis Performed
 - Total Revenue & Quantity
 - Top Selling Products
 - Country-wise Sales
 - Monthly Sales Trends
 - Customer Analysis
 
-## 📈 Visualization
+## Visualization
 Excel was used to create pivot tables and charts for better understanding of trends.
 
-## 📁 Files Included
+## Files Included
 - queries.sql
 - Project Report (PDF)
 - Screenshots
+  
+## Sample Output
 
-## 🎯 Outcome
+### Country-wise Analysis
+![Country Chart](country_revenue_chart.png)
+
+### Monthly Trend
+![Monthly Chart](monthly_sales_trend.png)
+
+##  Outcome
 This project helped in understanding sales patterns, customer behavior, and business insights using data analysis techniques.
