@@ -26,7 +26,7 @@ Excel was used to create pivot tables and charts for better understanding of tre
 ## Sample Output
 
 ### Country-wise Analysis
-![Country Chart](country_revenue_chart.png)
+![Country Chart](Countrywise_revenue_chart.png)
 
 ### Monthly Trend
 ![Monthly Chart](monthly_sales_trend.png)
